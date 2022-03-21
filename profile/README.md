@@ -11,4 +11,4 @@ We go by the names:
 👾  Adrian Wist Hakvåg
 
 ### What we code here:
-The projects seen here are projects we have developed toegther. 
+At this point its only school projects, but maybe we will code something random later on🤷🏼‍♂️
