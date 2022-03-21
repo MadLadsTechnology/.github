@@ -1,4 +1,4 @@
-# MadLads
+# What is this?
 
 We are a group of 3 students at NTNU studying Computer Science. 
 
