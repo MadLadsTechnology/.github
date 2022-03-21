@@ -4,11 +4,11 @@
 We are a group of 3️⃣ students at NTNU studying Computer Science. 
 We go by the names:
 
-👾  Eivind Strand Harboe
+👾  [Eivind Strand Harboe](https://github.com/eposkk)
 
-👾  Anders Heftøy Carlsen
+👾  [Anders Heftøy Carlsen](https://github.com/andershc)
 
-👾  Adrian Wist Hakvåg
+👾  [Adrian Wist Hakvåg](https://github.com/adriawh)
 
 ### What we code here:
 At this point its only school projects, but maybe we will code something random later on🤷🏼‍♂️
