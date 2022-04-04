@@ -13,3 +13,12 @@ We go by the names:
 
 ### What we code here:
 At this point its only school projects, but maybe we will code something random later on🤷🏼‍♂️
+
+
+### Latest project time coding
+
+Adrian: [![wakatime](https://wakatime.com/badge/github/MadLadsTechnology/QS99.svg)](https://wakatime.com/badge/github/MadLadsTechnology/QS99)
+
+Eivind: [![wakatime](https://wakatime.com/badge/github/MadLadsTechnology/QS99.svg)](https://wakatime.com/badge/github/MadLadsTechnology/QS99)
+
+Anders: [![wakatime](https://wakatime.com/badge/github/MadLadsTechnology/QS99.svg)](https://wakatime.com/badge/github/MadLadsTechnology/QS99)
