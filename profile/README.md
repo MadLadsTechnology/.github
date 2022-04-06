@@ -15,6 +15,6 @@ We go by the names:
 At this point its only school projects, but maybe we will code something random later on🤷🏼‍♂️
 
 
-### Latest project average time coding
+### Latest project combined coding time
  [![wakatime](https://wakatime.com/badge/github/MadLadsTechnology/QS99.svg)](https://wakatime.com/badge/github/MadLadsTechnology/QS99)
 
